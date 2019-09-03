@@ -8,4 +8,4 @@ Syftet med uppgiften var:
 * Beskriva kommandon imon Git
 * Skapa ett konto på Github eller Bitbucket
 
-*För att klona till eget repo använd: git Pull https://github.com/Seiron92/DT173G_moment1.git
+*För att klona till eget repo använd: git pull https://github.com/Seiron92/DT173G_moment1.git*
